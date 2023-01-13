@@ -1,0 +1,1 @@
+﻿insert into Userlogin values(@SlNo,@Username,@Password);
